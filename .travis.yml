@@ -19,6 +19,6 @@ env:
 notifications:
   email:
     recipients:
-      -podgorny.kv@gmail.com
+      -podgorny.kv@yandex.ru
     on_success: never # default: change
     on_failure: always # default: always
